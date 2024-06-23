@@ -1,2 +1,2 @@
 # Calculadora-
-Criando uma calculadora
+Este é um projeto que eu aprendi a fazer uma calculadora ...
