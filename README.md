@@ -1,5 +1,5 @@
 # Calculadora-
-Este é um projeto que eu aprendi a fazer uma calculadora ...
+
 
 <!DOCTYPE html>
 <html lang="en">
